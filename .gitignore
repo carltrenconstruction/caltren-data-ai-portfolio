@@ -1,0 +1,13 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Power BI / Tableau local cache files
+*.bak
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
